@@ -11,7 +11,8 @@ This is a experiment repository to learn about the Git workflow.
 - **Develop branch**: Stores the latest development changes for the next release.
 - **Feature branch**: Dedicated to a single new feature in the project. 
 - **Release branch**: Can be used to patch issues discovered in the feature branch. It needs to be merged to both main and develop branches.
-<img width="792" alt="Screen Shot 2022-12-30 at 12 01 01 PM" src="https://user-images.githubusercontent.com/55692020/210033215-10ed6a2c-0e5e-478c-a801-57ecf0b6fcfe.png">
+- **Hotfix branch**: Can be used to patch production release when something goes wrong. It needs to be merged to both main and develop branches.
+<img width="803" alt="Screen Shot 2022-12-30 at 12 08 29 PM" src="https://user-images.githubusercontent.com/55692020/210033566-8656b586-6bcf-4ff3-964f-b79fe68ba8a2.png">
 
 
 # References
